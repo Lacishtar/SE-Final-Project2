@@ -1,0 +1,17 @@
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\bin\Debug\ImportForm.exe.config
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\bin\Debug\ImportForm.exe
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\bin\Debug\ImportForm.pdb
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.csproj.AssemblyReference.cache
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.csproj.SuggestedBindingRedirects.cache
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Export.resources
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Exporting.resources
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Import.resources
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Main.resources
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Properties.Resources.resources
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Statistical.resources
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.csproj.GenerateResource.cache
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.csproj.CoreCompileInputs.cache
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.exe
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.pdb
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Login.resources
+D:\Games\Supplement_Facts_products-master\Supplement_Facts_products-master\ImportForm\obj\Debug\ImportForm.Chart.resources
